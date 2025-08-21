@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Unilever Shilling Medium";
+   src: url("fonts/Unilever Shilling Medium.woff") format("woff"), url("fonts/Unilever Shilling Medium.eot") format("embedded-opentype"), url("fonts/Unilever Shilling Medium.ttf") format("truetype"), url("fonts/Unilever Shilling Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Unilever Shilling";
+   src: url("fonts/Unilever Shilling.woff") format("woff"), url("fonts/Unilever Shilling.eot") format("embedded-opentype"), url("fonts/Unilever Shilling.ttf") format("truetype"), url("fonts/Unilever Shilling.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Unilever Shilling";
+   src: url("fonts/Unilever Shilling Bold.woff") format("woff"), url("fonts/Unilever Shilling Bold.eot") format("embedded-opentype"), url("fonts/Unilever Shilling Bold.ttf") format("truetype"), url("fonts/Unilever Shilling Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
